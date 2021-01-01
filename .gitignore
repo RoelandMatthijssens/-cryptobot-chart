@@ -1,0 +1,4 @@
+ticker_data
+*.csv
+*lock*
+__pycache__
